@@ -14,8 +14,6 @@ Raven will fit your purpose, even if it is **jamming down wifi networks or bluet
 
 _I archived this repository because I currently do not want to work on it._
 
-![MOSHED](https://user-images.githubusercontent.com/36562445/90558504-77d7ca80-e19c-11ea-9dd5-6ba902934866.gif)
-
 ## What makes it different
 
 - [x] Raven-Storm includes tools for creating shorcuts and working more efficiently.
