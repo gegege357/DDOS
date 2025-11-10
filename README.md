@@ -22,25 +22,6 @@ _I archived this repository because I currently do not want to work on it._
 - [x] Raven lets you connects clients together to create a botnet.
 - [x] Features different protocols such as UDP/TCP, ICMP, HTTP, L2CAP, ARP and IEEE.
 
-## Installation
-
-Just enter the following line to install Raven-Storm on Linux.
-
-```bash
-curl -s https://raw.githubusercontent.com/Taguar258/Raven-Storm/master/install.sh | sudo bash -s
-```
-
-<a style="color: grey" href="https://taguar258.github.io/Raven-Storm/INSTALLATION"><b>Click here for the more detailed installation guide.</b></a>
-
-
-<a style="color: grey" href="https://github.com/Taguar258/Raven-Storm/blob/master/README.md#info-and-warning"><b>Terms of Use</b></a>
-
-<a style="color: grey" href="https://github.com/Taguar258/Raven-Storm/blob/master/LICENSE">Licence</a>
-
-<a style="color: grey" href="https://github.com/Taguar258/Raven-Storm/projects/1">Project status/ToDo</a>
-
-<a style="color: grey" href="https://github.com/Taguar258/CLIF/">CLIF Framework</a>
-
 ## What module to use
 
 | Method | Module  |
